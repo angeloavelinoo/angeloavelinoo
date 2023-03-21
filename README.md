@@ -1,7 +1,9 @@
 
 ### Ola! Eu sou o Angelo Avelino 👋
 
-
+🌱Engenharia de Software 3°Semestre
+💻Procurando meu primeiro trabalho/estágio
+🙂Procurando evoluir sempre!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Angelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
