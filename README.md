@@ -1,7 +1,7 @@
 
 ### Ola! Eu sou o Angelo Avelino 👋
 
-🌱Engenharia de Software 3°Semestre<br>
+🌱Engenharia de Software 3° Semestre<br>
 💻Procurando meu primeiro trabalho/estágio<br>
 🙂Procurando evoluir sempre!
 
