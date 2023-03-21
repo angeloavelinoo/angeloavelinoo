@@ -4,6 +4,8 @@
 🌱Engenharia de Software 3° Semestre<br>
 💻Procurando meu primeiro trabalho/estágio
 
+<hr>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Angelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +16,7 @@
     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/ebbbccef229e28d3528f0778567d1f34/tumblr_par5vfOpDY1qlh9h7o7_500.gifv">
 
 
-   <br><br>
+   <br><hr>
 
 
 <div> 
