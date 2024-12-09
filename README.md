@@ -2,7 +2,7 @@
 ### Ola! Eu sou o Angelo Avelino 👋
 
 🌱Cursando Engenharia de Software <br>
-💻Atualmente atuando como desenvolvedor jr Backend C# .NET
+💻Atualmente atuando como desenvolvedor Backend C# .NET
 
 <hr>
 
