@@ -2,7 +2,7 @@
 ### Ola! Eu sou o Angelo Avelino 👋
 
 🌱Cursando 7° Período de Engenharia de Software <br>
-💻Atualmente atuando como desenvolvedor Backend C# .NET
+💻Atualmente atuando como desenvolvedor full stack
 
 <hr>
 
