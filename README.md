@@ -68,7 +68,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
 </div>
 
-<hr>
+  <img align="right" alt="Angelo-pic" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c5883c7a-89ab-4521-bf3f-0bc3bf2b69a5/dec0cho-a9fb7b6c-3ce5-4a38-9f52-4131959e688b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M1ODgzYzdhLTg5YWItNDUyMS1iZjNmLTBiYzNiZjJiNjlhNVwvZGVjMGNoby1hOWZiN2I2Yy0zY2U1LTRhMzgtOWY1Mi00MTMxOTU5ZTY4OGIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LRS1bJrvo_h0kz-B9t4fGiwEQvLKAtmQjDST4ntK9c0">
+   <hr>
 <div> 
   <a href="https://www.instagram.com/angeloavelinoo/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:angeloavelino33211781@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
