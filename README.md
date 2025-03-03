@@ -1,11 +1,9 @@
-
 ### Ola! Eu sou o Angelo Avelino 👋
 
 🌱Cursando 7° Período de Engenharia de Software <br>
-💻Atualmente atuando como desenvolvedor full stack
+🖥️Atualmente atuando como desenvolvedor full stack
 
 <hr>
-
 
 <h3>Backend</h3>
 <div>
@@ -13,6 +11,7 @@
     <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black">
     <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white">
@@ -30,6 +29,15 @@
     <img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white">
     <img src="https://img.shields.io/badge/AJAX-005F99?logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff">
+</div>
+
+<h3>Machine Learning & Data Science</h3>
+<div>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
+    <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white">
+    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white">
 </div>
 
 <h3>DevOps</h3>
@@ -60,8 +68,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
 </div>
 
-  <img align="right" alt="Angelo-pic" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c5883c7a-89ab-4521-bf3f-0bc3bf2b69a5/dec0cho-a9fb7b6c-3ce5-4a38-9f52-4131959e688b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M1ODgzYzdhLTg5YWItNDUyMS1iZjNmLTBiYzNiZjJiNjlhNVwvZGVjMGNoby1hOWZiN2I2Yy0zY2U1LTRhMzgtOWY1Mi00MTMxOTU5ZTY4OGIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LRS1bJrvo_h0kz-B9t4fGiwEQvLKAtmQjDST4ntK9c0">
-   <hr>
+<hr>
 <div> 
   <a href="https://www.instagram.com/angeloavelinoo/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:angeloavelino33211781@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
